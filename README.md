@@ -32,7 +32,7 @@
 
 2) วิธีการรัน pomodoro-timer:
 
-  -สร้างไฟล์สามไฟล์ index.html, style.css และ script.js และวางไว้ในโฟลเดอร์เดียวกัน
+  -  สร้างไฟล์สามไฟล์ index.html, style.css และ script.js และวางไว้ในโฟลเดอร์เดียวกัน
   - เปิดไฟล์ index.html จากนั้นคลิกขวาที่ไฟล์ index.html คลิก "Open With Live Server" หรือ
   - เปิดไฟล์ index.html จากนั้นคลิกที่ขวาล่างของหน้าจอชื่อ "Go Live" หรือ
   - ในกรณีที่ไม่มี Extension "Live Server" สามารถกดไปที่ "Run -> Start Debugging(F5)" ในไฟล์ index.html เพื่อรัน pomodoro-timer
