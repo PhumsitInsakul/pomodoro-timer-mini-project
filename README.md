@@ -1,6 +1,6 @@
 # pomodoro-timer-mini-project
-1) อธิบายตัวงาน pomodoro timer:
 
+1) อธิบายตัวงาน pomodoro timer:
 -index.html:
 ไฟล์นี้เป็นโครงสร้าง HTML หลักของหน้าเว็บแสดงตัวจับเวลาแบบ Pomodoro
   - <head>: มีข้อมูล meta และลิงก์ไปยังแหล่งข้อมูลภายนอกด้วย link
