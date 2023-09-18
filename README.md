@@ -29,8 +29,8 @@ script.js:
     - เริ่ม, พัก, และอัปเดตการนับถอยหลังของตัวจับเวลา
 
 2) วิธีการรัน pomodoro-timer:
-  2.1. สร้างไฟล์สามไฟล์ index.html, style.css และ script.js และวางไว้ในโฟลเดอร์เดียวกัน
-  2.2. เปิดไฟล์ index.html จากนั้นคลิกขวาที่ไฟล์ index.html คลิก "Open With Live Server" หรือ
-  2.3. เปิดไฟล์ index.html จากนั้นคลิกที่ขวาล่างของหน้าจอชื่อ "Go Live" หรือ
-  2.4. ในกรณีที่ไม่มี Extension "Live Server" สามารถกดไปที่ "Run -> Start Debugging(F5)" ในไฟล์ index.html เพื่อรัน pomodoro-timer
-  2.5. อย่าลืมตรวจสอบว่ามีการเชื่อมต่ออินเทอร์เน็ตเพราะไฟล์ HTML ลิงก์ไปยังแหล่งข้อมูลภายนอก Font Awesome และ Google Fonts 
+  1. สร้างไฟล์สามไฟล์ index.html, style.css และ script.js และวางไว้ในโฟลเดอร์เดียวกัน
+  2. เปิดไฟล์ index.html จากนั้นคลิกขวาที่ไฟล์ index.html คลิก "Open With Live Server" หรือ
+  3. เปิดไฟล์ index.html จากนั้นคลิกที่ขวาล่างของหน้าจอชื่อ "Go Live" หรือ
+  4. ในกรณีที่ไม่มี Extension "Live Server" สามารถกดไปที่ "Run -> Start Debugging(F5)" ในไฟล์ index.html เพื่อรัน pomodoro-timer
+  5. อย่าลืมตรวจสอบว่ามีการเชื่อมต่ออินเทอร์เน็ตเพราะไฟล์ HTML ลิงก์ไปยังแหล่งข้อมูลภายนอก Font Awesome และ Google Fonts 
