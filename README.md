@@ -1,7 +1,7 @@
 # pomodoro-timer-mini-project
 
 1) อธิบายตัวงาน pomodoro timer:
-index.html:
+-index.html:
 ไฟล์นี้เป็นโครงสร้าง HTML หลักของหน้าเว็บแสดงตัวจับเวลาแบบ Pomodoro
   - <head>: มีข้อมูล meta และลิงก์ไปยังแหล่งข้อมูลภายนอกด้วย link
     - <meta name="Viewport" content="width=device-width, initial-scale=1.0" />: กำหนดพอร์ตตัวแสดงสำหรับการออกแบบตอบสนอง
@@ -14,10 +14,10 @@ index.html:
     - แสดงตัวจับเวลา
     - ปุ่ม  Start, Pause และ Reset
   - <script src="script.js"></script>: ลิงก์ไปยังไฟล์ JavaScript 
-style.css:
+-style.css:
 ไฟล์นี้ช้ในการสร้างรูปแบบของการแสดงผลในไฟล์ HTML
   - กำหนดรูปแบบสำหรับองค์ประกอบต่างๆเช่น สีพื้นหลัง, แบบอักษร, สไตล์ปุ่มและเค้าโครง
-script.js:
+-script.js:
 ไฟล์ JavaScript นี้เพิ่มประสิทธิภาพให้กับตัวจับเวลาแบบ Pomodoro 
   - ไฟล์นี้เลือกองค์ประกอบ HTML (ปุ่ม, แสดงจับเวลา) โดยใช้ ID และ CLASS
   - ไฟล์นี้กำหนดค่าตัวแปรสำหรับการตั้งค่าและสถานะของตัวจับเวลา
@@ -29,8 +29,8 @@ script.js:
     - เริ่ม, พัก, และอัปเดตการนับถอยหลังของตัวจับเวลา
 
 2) วิธีการรัน pomodoro-timer:
-  1. สร้างไฟล์สามไฟล์ index.html, style.css และ script.js และวางไว้ในโฟลเดอร์เดียวกัน
-  2. เปิดไฟล์ index.html จากนั้นคลิกขวาที่ไฟล์ index.html คลิก "Open With Live Server" หรือ
-  3. เปิดไฟล์ index.html จากนั้นคลิกที่ขวาล่างของหน้าจอชื่อ "Go Live" หรือ
-  4. ในกรณีที่ไม่มี Extension "Live Server" สามารถกดไปที่ "Run -> Start Debugging(F5)" ในไฟล์ index.html เพื่อรัน pomodoro-timer
-  5. อย่าลืมตรวจสอบว่ามีการเชื่อมต่ออินเทอร์เน็ตเพราะไฟล์ HTML ลิงก์ไปยังแหล่งข้อมูลภายนอก Font Awesome และ Google Fonts 
+  -สร้างไฟล์สามไฟล์ index.html, style.css และ script.js และวางไว้ในโฟลเดอร์เดียวกัน
+  - เปิดไฟล์ index.html จากนั้นคลิกขวาที่ไฟล์ index.html คลิก "Open With Live Server" หรือ
+  - เปิดไฟล์ index.html จากนั้นคลิกที่ขวาล่างของหน้าจอชื่อ "Go Live" หรือ
+  - ในกรณีที่ไม่มี Extension "Live Server" สามารถกดไปที่ "Run -> Start Debugging(F5)" ในไฟล์ index.html เพื่อรัน pomodoro-timer
+  - อย่าลืมตรวจสอบว่ามีการเชื่อมต่ออินเทอร์เน็ตเพราะไฟล์ HTML ลิงก์ไปยังแหล่งข้อมูลภายนอก Font Awesome และ Google Fonts 
