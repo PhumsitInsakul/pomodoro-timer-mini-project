@@ -1,5 +1,5 @@
 # pomodoro-timer-mini-project (TokyoTech leave)
-*ผมได้ส่งใบลาใน Teams เรียบร้อยครับ*
+- ผมได้ส่งใบลาใน Teams เรียบร้อยครับ
 1) อธิบายตัวงาน pomodoro timer:
 -index.html:
 ไฟล์นี้เป็นโครงสร้าง HTML หลักของหน้าเว็บแสดงตัวจับเวลาแบบ Pomodoro
