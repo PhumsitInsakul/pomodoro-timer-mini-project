@@ -1,5 +1,4 @@
 # pomodoro-timer-mini-project (TokyoTech leave)
-# ผมได้ส่งใบลาใน Teams เรียบร้อยครับ
 
 1) อธิบายตัวงาน pomodoro timer:
 -index.html:
